@@ -48,6 +48,24 @@
     cursor: pointer;
 }
 
+.result-box ul{
+    background: #ebfffc;
+    color: #555;
+    width: 80%;
+    border-radius: 20px;
+}
+
+.result-box li{
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
 .weather .bi-cloud-drizzle{
     font-size: 72px;
 
